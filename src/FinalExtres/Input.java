@@ -1,0 +1,5 @@
+package FinalExtres;
+
+public enum Input {
+	DRETA, ESQUERRA, AMUNT, AVALL, GRAN, PETIT, DISPARAR, ESPAI, DALTDRETA, DALTESQUERRA;
+}
